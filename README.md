@@ -38,6 +38,12 @@ ee.on("removeBtnClicked", (...args) => {
 
 
 
+Api
+=======
+
+- on (eventName, cb) 
+- dispatch (eventName, ...args)
+
 
 
 
