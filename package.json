@@ -1,0 +1,13 @@
+{
+  "name": "tiny-emitter-singleton",
+  "version": "1.0.0",
+  "description": "A tiny emitter for web applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "lingtalfi",
+  "homepage": "https://github.com/lingtalfi/tiny-emitter-singleton",
+  "license": "ISC"
+}
